@@ -1,2 +1,2 @@
-# simpledataconverter
-Easy ETL tool
+# Easy ETL
+Easy ETL is a tool
