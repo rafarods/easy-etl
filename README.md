@@ -1,2 +1,2 @@
 # simpledataconverter
-Simple Data Converter application tool
+Easy ETL tool
